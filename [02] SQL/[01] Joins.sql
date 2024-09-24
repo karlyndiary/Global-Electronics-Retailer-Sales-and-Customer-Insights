@@ -20,3 +20,16 @@ ON p.product_key = s.product_key
 JOIN [Global_Retailer].[dbo].[exchange_rates] r
 ON r.currency = s.currency_code
 AND r.date = s.order_date
+
+	---------------------
+
+SELECT c.[customer_key], c.[gender], c.[name], c.[city], c.[state_code], c.[state], c.[zip_code], c.[country], c.[continent], c.[birthday],
+FLOOR(DATEDIFF(DAY, c.[birthday], GETDATE()) / 365.25) AS age, DATEDIFF(YEAR, birthday, GETDATE()) as ag,
+CASE 
+    WHEN DATEDIFF(YEAR, birthday, GETDATE()) <= 13 THEN 'child'
+    WHEN DATEDIFF(YEAR, birthday, GETDATE()) BETWEEN 13 AND 18 THEN 'teen'
+	WHEN DATEDIFF(YEAR, birthday, GETDATE()) BETWEEN 20 AND 35 THEN 'young adult'
+	WHEN DATEDIFF(YEAR, birthday, GETDATE()) BETWEEN 36 AND 50 THEN 'adult'
+    ELSE 'senior'
+END AS age_range
+FROM [Global_Retailer].[dbo].[customers] c
