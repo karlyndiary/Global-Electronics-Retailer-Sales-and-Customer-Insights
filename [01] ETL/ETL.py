@@ -43,7 +43,7 @@ dataframes = {
     'sales': sales,
     'stores': stores,
     'products': prod,
-    'exchange_rates': rates,
+    'exchange_rates': rates
 }
 
 # load each dataframe into sql
