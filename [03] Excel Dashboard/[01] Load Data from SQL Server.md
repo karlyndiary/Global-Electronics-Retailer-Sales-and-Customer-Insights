@@ -1,0 +1,9 @@
+- Open Excel 
+- Data
+  - Get Data
+  - From Database
+  - From SQL Server Database
+- Enter the Server Name and Database
+- Expand Advanced options and paste the SQL query
+- Click on ok
+- Click on Load
