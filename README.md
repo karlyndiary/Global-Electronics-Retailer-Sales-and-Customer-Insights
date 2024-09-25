@@ -1,2 +1,2 @@
 # Global Electronics Retailer
-![Global Retailer drawio](https://github.com/user-attachments/assets/8b9662fe-cb9f-4ae0-b802-c9b58eff2f61)
+![Global Retailer drawio](https://github.com/user-attachments/assets/491b8e36-4b9b-459f-a757-1b6c30978c20)
