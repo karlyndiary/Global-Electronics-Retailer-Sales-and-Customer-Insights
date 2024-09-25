@@ -1,5 +1,5 @@
 - Open Excel 
-- Data
+- Data Tab
   - Get Data
   - From Database
   - From SQL Server Database
