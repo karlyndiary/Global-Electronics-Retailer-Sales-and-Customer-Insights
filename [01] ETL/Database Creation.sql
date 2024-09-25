@@ -1,1 +1,1 @@
-CREATE DATABASE Global_Retailer
+CREATE DATABASE Global_Electronics_Retailer
