@@ -1,4 +1,4 @@
-### Customer & Demographic Metrics
+### Customer Metrics
 
 - Total Sales Revenue
 ```
