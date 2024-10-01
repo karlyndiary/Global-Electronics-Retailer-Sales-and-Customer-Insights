@@ -1,4 +1,4 @@
-### Sales & Revenue Metrics
+### Revenue Metrics
 
 - Total Sales Revenue
 ```
