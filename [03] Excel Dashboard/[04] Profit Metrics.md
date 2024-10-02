@@ -16,13 +16,12 @@ Custom Formatting -> $0.00,,"M"
 =M3/C3 [= Total Profit/ Total Revenue]
 ```
 
-- Sales Growth Rate
+- Profit Growth Rate
 ```
-=(Sales in 2021−Sales in 2016) / Sales in 2016
-```
-Custom Formatting -> %
 
-- Total Units Sold
 ```
-=SUM(Dataset[quantity])
+
+- Top product contribution to profit
+```
+
 ```
