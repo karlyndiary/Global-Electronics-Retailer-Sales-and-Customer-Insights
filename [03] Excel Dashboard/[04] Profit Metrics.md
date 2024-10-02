@@ -1,19 +1,19 @@
 ### Profit Metrics
 
-- Total Sales Revenue
+- Total Profit
 ```
-=SUM(Dataset[revenue])
+=SUM(Dataset[profit])
 ```
 Custom Formatting -> $0.00,,"M"
 
-- Total Orders
+- Average Profit per Order
 ```
-=COUNTA(UNIQUE(Dataset[order_number]))
+=M3/B5 [= Total Profit/ Total Orders]
 ```
 
-- Average Order Value (AOV)
+- Profit Margin
 ```
-=Total Sales Revenue/ Total Orders
+=M3/C3 [= Total Profit/ Total Revenue]
 ```
 
 - Sales Growth Rate
