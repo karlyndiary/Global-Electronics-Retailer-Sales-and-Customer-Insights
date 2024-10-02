@@ -20,6 +20,7 @@ Custom Formatting -> $0.00,,"M"
 ```
 
 ```
+Custom Formatting -> %
 
 - Top product contribution to profit
 ```
