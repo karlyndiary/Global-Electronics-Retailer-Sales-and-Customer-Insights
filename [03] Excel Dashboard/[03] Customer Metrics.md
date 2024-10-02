@@ -1,28 +1,26 @@
 ### Customer Metrics
 
-- Total Sales Revenue
+- Total Unique Customers
 ```
-=SUM(Dataset[revenue])
-```
-Custom Formatting -> $0.00,,"M"
-
-- Total Orders
-```
-=COUNTA(UNIQUE(Dataset[order_number]))
+=COUNTA(UNIQUE(Dataset[customer_key]))
 ```
 
-- Average Order Value (AOV)
+- Average Customer Age
 ```
-=Total Sales Revenue/ Total Orders
+=AVERAGE(Dataset[age])
 ```
 
-- Sales Growth Rate
+- Customer Acquisition Rate
 ```
-=(Sales in 2021−Sales in 2016) / Sales in 2016
-```
-Custom Formatting -> %
 
-- Total Units Sold
 ```
-=SUM(Dataset[quantity])
+
+- Average Order Frequency
+```
+
+```
+
+- Customer Churn Rate
+```
+
 ```
