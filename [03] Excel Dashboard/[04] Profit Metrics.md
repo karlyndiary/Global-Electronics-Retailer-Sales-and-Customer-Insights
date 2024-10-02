@@ -18,7 +18,7 @@ Custom Formatting -> $0.00,,"M"
 
 - Profit Growth Rate
 ```
-
+=(L15-L10)/L10 [=(Profit in Final Year−Profit in Initial Year)/Profit in Initial Year]
 ```
 Custom Formatting -> %
 
