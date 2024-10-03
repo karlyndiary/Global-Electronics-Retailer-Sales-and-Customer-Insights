@@ -9,9 +9,9 @@
 * [Recommendations](#recommendations)
 
 # Project Background 
-Amazon, founded in 1994, is a global e-commerce giant offering a vast range of products, including popular electronic items, through its website and mobile app. 
+A fictitious Global Electronics Retailer offers a wide range of electronic products to customers around the world, with detailed data collected from transactions, customer demographics, and store performance.
 
-With millions of customer reviews and feedback across its electronics category, Amazon possesses a wealth of data that has the potential to provide valuable insights for product improvement and customer satisfaction. This project focuses on conducting a comprehensive sentiment analysis of electronic product reviews, aiming to uncover key insights that can guide product enhancements, improve customer experience, and drive better business outcomes for Amazon.
+With comprehensive sales metrics spanning various product categories and regions, this retailer holds a wealth of insights that can drive business improvements and enhance customer satisfaction. This project focuses on analyzing key sales data through interactive dashboards, aiming to uncover valuable insights that can inform product strategies, optimize performance, and improve customer experiences globally.
 
 Insights and recommendations are provided on the following key areas : 
 - **Sentiment Distribution**: Analysis of overall customer feedback, highlighting the proportion of positive, neutral, and negative reviews.
