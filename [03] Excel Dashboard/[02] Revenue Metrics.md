@@ -15,6 +15,7 @@ Custom Formatting -> $0.00,,"M"
 ```
 =SUM(Dataset[revenue])/COUNTA(UNIQUE(Dataset[order_number]))
 ```
+Custom Formatting -> $
 
 - Sales Growth Rate
 ```
