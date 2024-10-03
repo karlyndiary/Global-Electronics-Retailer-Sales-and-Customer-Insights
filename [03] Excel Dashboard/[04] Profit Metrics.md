@@ -8,21 +8,22 @@ Custom Formatting -> $0.00,,"M"
 
 - Average Profit per Order
 ```
-=M3/B5 [= Total Profit/ Total Orders]
+=SUM(Dataset[profit])/COUNTA(UNIQUE(Dataset[order_number]))
 ```
 
 - Profit Margin
 ```
-=M3/C3 [= Total Profit/ Total Revenue]
+=SUM(Dataset[profit])/SUM(Dataset[revenue])
 ```
 
 - Profit Growth Rate
 ```
-=(L15-L10)/L10 [=(Profit in Final Year−Profit in Initial Year)/Profit in Initial Year]
+=(L15-L10)/L10
+[=(Profit in Final Year−Profit in Initial Year)/Profit in Initial Year]
 ```
 Custom Formatting -> %
 
-- Top product contribution to profit
+- Total Profit per Customer
 ```
-
+=SUM(Dataset[profit])/COUNTA(UNIQUE(Dataset[customer_key])) 
 ```
