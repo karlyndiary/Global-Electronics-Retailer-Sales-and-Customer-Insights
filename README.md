@@ -41,7 +41,7 @@ Global Retailer Electronic's database structure as seen below consists of five t
 
 The sentiment analysis reveals that 88% of products received positive reviews, correlating with higher average ratings of 4.8. Prime status often influenced positive feedback, though it did not guarantee it. Sales peaked in August, and Q3 2024 saw a rise in both positive and negative reviews. Most products were highly rated, with 504 receiving 5 stars. A notable trend emerged between price and sentiment, showing high positive feedback at lower price points. Despite negative sentiment, some products continued to sell well, indicating room for product improvement.
 
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AmazonElectronicsReviewsDashboard/Overview).
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 ### Revenue Insights
 - 88% of the products received positive reviews, 7% neutral, and 4% negative, highlighting a strong customer satisfaction trend. This aligns with growing consumer preference for electronic products, driving positive feedback in the review space.
