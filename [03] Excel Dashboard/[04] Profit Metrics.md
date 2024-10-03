@@ -10,15 +10,18 @@ Custom Formatting -> $0.00,,"M"
 ```
 =SUM(Dataset[profit])/COUNTA(UNIQUE(Dataset[order_number]))
 ```
+Custom Formatting -> $
 
 - Profit Margin
 ```
 =SUM(Dataset[profit])/SUM(Dataset[revenue])
 ```
+Custom Formatting -> %
 
 - Profit Growth Rate
 ```
 =(L15-L10)/L10
+
 [=(Profit in Final Year−Profit in Initial Year)/Profit in Initial Year]
 ```
 Custom Formatting -> %
@@ -27,3 +30,4 @@ Custom Formatting -> %
 ```
 =SUM(Dataset[profit])/COUNTA(UNIQUE(Dataset[customer_key])) 
 ```
+Custom Formatting -> $
