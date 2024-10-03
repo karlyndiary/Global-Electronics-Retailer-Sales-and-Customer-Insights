@@ -13,7 +13,7 @@ Custom Formatting -> $0.00,,"M"
 
 - Average Order Value (AOV)
 ```
-=Total Sales Revenue/ Total Orders
+=SUM(Dataset[revenue])/COUNTA(UNIQUE(Dataset[order_number]))
 ```
 
 - Sales Growth Rate
