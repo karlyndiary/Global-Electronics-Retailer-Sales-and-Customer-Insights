@@ -19,6 +19,7 @@
 ```
 =COUNTA(UNIQUE(FILTER(Dataset[customer_key],(Dataset[customer_status]="New") * (Dataset[orders_last_365_days]="Yes"))))/COUNTA(UNIQUE(FILTER(Dataset[customer_key],(Dataset[orders_last_365_days]="No"))))
 ```
+Custom Formatting -> %
 
 - Average Order Frequency
 ```
