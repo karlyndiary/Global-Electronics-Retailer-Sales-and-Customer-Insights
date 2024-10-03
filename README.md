@@ -25,9 +25,9 @@ Insights and recommendations are provided on the following key areas :
 
 Detailed Resources: 
 
-- The API Extraction and Data Cleaning process utilized can be found [here](https://github.com/karlyndiary/Amazon-Sentiment-Analysis-EDA/tree/main/%5B01%5D%20API%20Data%20Extraction%2C%20Data%20Cleaning). 
-- Sentiment Analysis can be found [here](https://github.com/karlyndiary/Amazon-Sentiment-Analysis-EDA/tree/main/%5B02%5D%20Sentiment%20Analysis).
-- An interactive Tableau dashboard can be downloaded [here](https://public.tableau.com/app/profile/karen.judelyn.fernandes/viz/AmazonElectronicsReviewsDashboard/Dashboard-Overview?publish=yes).
+- The Data Cleaning process utilized can be found [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B01%5D%20ETL). 
+- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B02%5D%20SQL). 
+- An interactive Excel dashboard can be downloaded [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 # Data Structure
 
