@@ -18,7 +18,9 @@ Custom Formatting -> $0.00,,"M"
 
 - Sales Growth Rate
 ```
-=(Sales in 2021−Sales in 2016) / Sales in 2016
+=(B15-B10)/B10
+
+[=(Sales in 2021−Sales in 2016) / Sales in 2016]
 ```
 Custom Formatting -> %
 
