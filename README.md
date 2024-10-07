@@ -1,6 +1,5 @@
 # Global Electronics Retailer
 
-![Sentiment Analysis](https://github.com/user-attachments/assets/c7ca73eb-da17-448b-aaf3-1415b41ae226)
 
 # Table of Contents
 * [Project Background](#project-background)
