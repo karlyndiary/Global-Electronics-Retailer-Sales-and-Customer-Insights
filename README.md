@@ -1,5 +1,5 @@
 # Optimizing Global Electronics Retailer: Revenue, Customer & Profit Insights
-
+![GER](https://github.com/user-attachments/assets/23e446bb-9a2c-44cc-9ec1-915cbd9f14cf)
 
 # Table of Contents
 * [Project Background](#project-background)
