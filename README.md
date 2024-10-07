@@ -1,4 +1,4 @@
-# Global Electronics Retailer
+# Optimizing Global Electronics Retailer: Revenue, Customer & Profit Insights
 
 
 # Table of Contents
