@@ -56,8 +56,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - The analysis shows that prime and best seller status are not directly correlated with customer sentiment. Of the 437 products with positive sentiment, most were prime but not best sellers, indicating prime status alone can influence positive feedback. However, neutral and negative sentiments were also present in prime products, suggesting that being prime does not guarantee positive reviews. Products with both prime and best seller status generally saw higher positive sentiment, but they still received neutral and negative feedback as well. This indicates that prime and best seller status are independent factors in shaping customer sentiment.
 - The company's sales peaked in August with a total of 300 orders, driven largely by the summer season in the US. Sales were also strong in September, reaching 177 orders. The majority of sales for the year occurred between May and October, with December recording the lowest sales overall.
 - In the third quarter of 2024, the sentiment analysis showed a significant rise in positive reviews, reaching 496 reviews. This sharp increase corresponds with an improvement in product performance or customer satisfaction. Meanwhile, negative reviews also saw an upward trend, rising from 1 review in Q4 2022 to 25 in Q3 2024, potentially indicating mixed experiences from customers. Neutral reviews remained steady, increasing from 1 in Q4 2022 to 35 by Q3 2024. These changes could reflect varied consumer expectations and feedback over time.
-
-![Customer](https://github.com/user-attachments/assets/e3f3c017-1b09-4425-86c1-14f5968c908d)
+- 
+![Customer](https://github.com/user-attachments/assets/39f0f997-c133-4eb6-b223-630377d0bf19)
 
 ### Profit Insights
 
