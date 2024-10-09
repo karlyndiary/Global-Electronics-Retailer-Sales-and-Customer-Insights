@@ -53,6 +53,12 @@ Below is the overview page from the Excel dashboard and more examples are includ
 ![Revenue](https://github.com/user-attachments/assets/0a5ff25e-df33-4b00-81b8-ab359c4a382e)
 
 ### Customer Insights
+- Out of the total customer base, 6,837 are seniors, making them the largest age group. This is followed by 2,659 adults, and 2,391 young adults. This distribution highlights a clear dominance of the senior demographic, indicating they represent the majority of the customer base, while adults and young adults make up smaller, yet still significant, portions.
+- The gender distribution of customers is nearly balanced, with males accounting for 51% and females making up 49%.
+- Out of a total of 11,887 unique customers, the United States leads with 5,706 customers, followed by the United Kingdom with 1,570. Canada and Germany also contribute significantly, with 1,179 and 1,150 customers, respectively. Australia has 780 customers, while the Netherlands and Italy have 534 and 530. France has the fewest, with 438 customers. This distribution emphasizes the strong customer base in the United States, with other countries representing smaller, yet important, segments.
+- The repeat customer rate of 53.40% indicates strong customer loyalty, with over half of customers returning for additional purchases.
+- Over the five-year period from 2017 to 2021, the highest retention rate was recorded in 2019 at 89.45%, followed by 2018 with 63.45%. In contrast, 2021 had the lowest retention rate at 9.37%, with 2017 being the second lowest at 21.78%. Meanwhile, 2020 saw a retention rate of 39.23%. This distribution highlights significant fluctuations in retention rates over the years, indicating varying levels of customer loyalty and engagement. 
+- The United States holds the highest Customer Lifetime Value (CLV) at $5,235.13, followed by Germany at $4,707.96 and Italy at $4,671.03. The United Kingdom and Canada also show solid CLV figures, with $4,512.16 and $4,007.07, respectively. On the lower end, Australia has a CLV of $3,471.97, with France close behind at $3,459.68. The Netherlands has a CLV of $3,674.45. This distribution highlights the strong CLV in the U.S. and European countries, while Australia and France may represent opportunities for enhancing customer retention or spending.
 
 ![Customer](https://github.com/user-attachments/assets/39f0f997-c133-4eb6-b223-630377d0bf19)
 
