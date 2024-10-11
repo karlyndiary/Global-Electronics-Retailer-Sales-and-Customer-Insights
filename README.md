@@ -27,9 +27,9 @@ Insights and recommendations are provided on the following key areas :
 
 Detailed Resources: 
 
-- The Data Cleaning process utilized can be found [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B01%5D%20ETL). 
-- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B02%5D%20SQL). 
-- An interactive Excel dashboard can be downloaded [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B03%5D%20Excel%20Dashboard).
+- The Data Cleaning process utilized can be found [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B01%5D%20ETL). 
+- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B02%5D%20SQL). 
+- An interactive Excel dashboard can be downloaded [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 # Data Structure
 
@@ -43,7 +43,7 @@ Global Retailer Electronic's database structure as seen below consists of five t
 
 The revenue analysis reveals that the computers category leads sales at $19.30 million, followed by home appliances at $1.08 million. The U.S. market generates the highest revenue at $2.99 million, while France contributes the least at $15.15K. Customer demographics indicate that seniors are the largest age group, totaling 6,837 customers, and the repeat customer rate stands at 53.40%, reflecting strong loyalty. Profit insights show that desktop PCs account for 80% of top profits, with the highest profit contribution in 2019 at $10.70 million. Overall, there is significant revenue potential in high-ticket items and opportunities to improve strategies for low-ticket products and enhance customer retention.
 
-Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/karlyndiary/Global-Electronics-Retailer/tree/main/%5B03%5D%20Excel%20Dashboard).
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 ### Revenue Insights
 
