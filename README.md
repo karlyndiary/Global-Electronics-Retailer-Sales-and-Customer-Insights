@@ -64,7 +64,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 ### Profit Insights
 
-![Profit](https://github.com/user-attachments/assets/88c86034-260b-4d53-b9ff-598bf7147d6f)
+![Profit](https://github.com/user-attachments/assets/2927ff53-6032-4345-a291-62e1daf652df)
 
 # Recommendations
 
