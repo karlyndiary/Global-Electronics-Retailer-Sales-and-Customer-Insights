@@ -13,14 +13,17 @@ A fictitious Global Electronics Retailer offers a wide range of electronic produ
 With comprehensive sales metrics spanning various product categories and regions, this retailer holds a wealth of insights that can drive business improvements and enhance customer satisfaction. This project focuses on analyzing key sales data through interactive dashboards, aiming to uncover valuable insights that can inform product strategies, optimize performance, and improve customer experiences globally.
 
 Insights and recommendations are provided on the following key areas : 
-- **Sentiment Distribution**: Analysis of overall customer feedback, highlighting the proportion of positive, neutral, and negative reviews.
-- **Sentiment Trends**: Evaluation of sentiment changes over time, focusing on the significant rise in positive reviews and the increase in negative sentiment in 2024.
-- **Product Performance**: Assessment of product ratings in relation to customer sentiment, showing the correlation between high ratings and positive feedback, including exceptions.
-- **Best Sellers & Prime Products**: Review of best-selling and Prime products, focusing on their association with positive sentiment and customer satisfaction, while noting independence from sentiment trends.
-- **Sales Trends**: Examination of sales performance across different months, highlighting peak sales periods and patterns throughout the year.
-- **Rating Distribution**: Breakdown of product ratings, showcasing the dominance of top-rated products and the implications for consumer approval.
-- **Price vs. Sentiment**: Analysis of the relationship between product pricing and sentiment, revealing patterns that inform pricing strategies and customer expectations.
-- **Sales Volume Correlation**: Exploration of the correlation between sales volume and sentiment, identifying areas for potential product improvement despite varying levels of customer interest.
+- **Revenue Distribution**: The analysis identifies distinct sales contributions across product categories.
+
+- **Market Performance**: The findings highlight variations in revenue generation across different countries.
+
+- **Customer Demographics**: The customer base consists of different age groups and a nearly balanced gender distribution.
+
+- **Profit Distribution**: Certain product categories contribute significantly to overall profits.
+
+- **Retention Trends**: Customer retention rates exhibit fluctuations over time.
+
+- **Sales Patterns**: There are differences in performance between high-ticket and low-ticket products.
 
 Detailed Resources: 
 
