@@ -74,7 +74,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Customer Lifetime Value (CLV)**: The U.S. has the highest CLV at $5,235.13, followed by Germany ($4,707.96) and Italy ($4,671.03). Australia ($3,471.97) and France ($3,459.68) present opportunities for increased retention.
   
-![Customer](https://github.com/user-attachments/assets/9c2ba38d-59f5-47ec-a829-3f31f7a215c3)
+![Customer](https://github.com/user-attachments/assets/0f18e671-e99e-4304-9f7c-070b729abcb2)
 
 ### Profit Insights
 
