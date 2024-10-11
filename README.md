@@ -64,6 +64,13 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 ### Profit Insights
 
+- Desktop PCs dominate the top-performing products, making up 80% of the highest profit earners, with the WWI Desktop PC2.33 X2330 Black leading at $337,986.00. While desktop PCs are the main profit drivers, the two LCD HDTVs also show notable profitability, with the top model earning $263,727.12, indicating potential for growth in the HDTV category.
+- Computers lead the way in profit generation, with a substantial total of $11,277,447.90, making them a high-ticket item. Home appliances and cameras also perform well, earning $6,296,338.85 and $3,919,800.99, respectively. On the other hand, low-ticket items like games and toys generate the least profit at only $396,668.77, suggesting there is room for improvement in this category. This difference in profit levels highlights the advantage of focusing on higher-priced products to boost overall profitability.
+- The United States stands out with the highest profit contribution of $1,749,924.05, significantly surpassing other countries. The United Kingdom follows with $413,800.81, while Germany and Canada also contribute notable amounts at $318,916.46 and $275,738.22, respectively. Conversely, France contributes the least profit at $89,513.49, indicating potential for growth in that market. Overall, this distribution highlights the dominance of the U.S. market in driving profits.
+- The highest profit contribution over the six-year period is from 2019, amounting to $10,697,738.90, followed by 2018 with $7,464,961.11. Profits show a gradual increase from 2016 to 2019, with figures starting at $4,107,000.47 in 2016 and rising to $10,697,738.90 in 2019. However, there is a notable decline in profits following 2019, reflecting the impact of COVID-19, with profits dropping to $5,447,460.15 in 2020 and further to $608,463.69 in 2021. This trend underscores the significant challenges faced by the business during the pandemic.
+- From 2016 to 2021, profit growth rates showed considerable fluctuations. After starting at 0.00% in 2016, growth rose to 5.60% in 2017 and peaked at 72.12% in 2018. However, 2019 saw a sharp decline to 43.31%, marking the start of a downturn. This trend continued in 2020 and 2021, with negative growth rates of -49.08% and -88.83%, respectively, largely due to the impact of the COVID-19 pandemic.
+- 
+
 ![Profit](https://github.com/user-attachments/assets/6e64018a-ccec-4d0f-bf40-72516183ec5a)
 
 # Recommendations
