@@ -58,8 +58,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Sales Revenue by Country**: The United States far outpaced other regions, contributing $29.87 million to total revenue, while France lagged with $1.52 million. The dominance of the U.S. market indicates its critical importance to the company’s overall performance.
 
 - **Average Order Value by Product Category (AOV)**: Home appliances boasted the highest AOV at $1.84K, compared to games and toys at $102.65. This contrast highlights the significant revenue potential of high-value categories like home appliances over lower-cost items.
-
-![Revenue](https://github.com/user-attachments/assets/0a5ff25e-df33-4b00-81b8-ab359c4a382e)
+  
+![Revenue](https://github.com/user-attachments/assets/8f46923e-1228-4787-9476-62dd2117a495)
 
 ### Customer Insights
 - **Customer Age Distribution**: Seniors are the largest demographic with 6,837 customers, followed by adults at 2,659 and young adults at 2,391, indicating a significant preference for the senior demographic.
@@ -73,8 +73,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Retention Rates**: The highest retention rate was 89.45% in 2019, with significant fluctuations over the years, including 9.37% in 2021.
 
 - **Customer Lifetime Value (CLV)**: The U.S. has the highest CLV at $5,235.13, followed by Germany ($4,707.96) and Italy ($4,671.03). Australia ($3,471.97) and France ($3,459.68) present opportunities for increased retention.
-
-![Customer](https://github.com/user-attachments/assets/39f0f997-c133-4eb6-b223-630377d0bf19)
+  
+![Customer](https://github.com/user-attachments/assets/9c2ba38d-59f5-47ec-a829-3f31f7a215c3)
 
 ### Profit Insights
 
@@ -90,7 +90,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Average Profit per Order by Category**: Home appliances lead with the highest average profit per order at $1,212, followed by TV and Video at $1,063.67 and Computers at $1,026.16. Medium-ticket items include Cameras and Camcorders at $784.74, while low-ticket categories like Music and Games show average profits ranging from $64.73 to $275.90.
 
-![Profit](https://github.com/user-attachments/assets/6e64018a-ccec-4d0f-bf40-72516183ec5a)
+![Profit](https://github.com/user-attachments/assets/2267f108-1a3e-4d3c-9097-4a96d5a916ff)
 
 # Recommendations
 
