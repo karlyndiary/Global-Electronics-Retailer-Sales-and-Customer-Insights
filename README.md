@@ -1,5 +1,5 @@
-# Optimizing Global Electronics Retailer: Revenue, Customer & Profit Insights
-![GER](https://github.com/user-attachments/assets/23e446bb-9a2c-44cc-9ec1-915cbd9f14cf)
+# Global Electronics Retailer: Sales & Customer Insights
+![GER](https://github.com/user-attachments/assets/629f0843-71de-4393-860e-9287349b0080)
 
 # Table of Contents
 * [Project Background](#project-background)
@@ -58,8 +58,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Sales Revenue by Country**: The United States far outpaced other regions, contributing $29.87 million to total revenue, while France lagged with $1.52 million. The dominance of the U.S. market indicates its critical importance to the company’s overall performance.
 
 - **Average Order Value by Product Category (AOV)**: Home appliances boasted the highest AOV at $1.84K, compared to games and toys at $102.65. This contrast highlights the significant revenue potential of high-value categories like home appliances over lower-cost items.
-  
-![Revenue](https://github.com/user-attachments/assets/8f46923e-1228-4787-9476-62dd2117a495)
+
+![Revenue](https://github.com/user-attachments/assets/4ce7a360-a5c5-4527-b8ec-27c470475ed0)
 
 ### Customer Insights
 - **Customer Age Distribution**: Seniors are the largest demographic with 6,837 customers, followed by adults at 2,659 and young adults at 2,391, indicating a significant preference for the senior demographic.
@@ -73,24 +73,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Retention Rates**: The highest retention rate was 89.45% in 2019, with significant fluctuations over the years, including 9.37% in 2021.
 
 - **Customer Lifetime Value (CLV)**: The U.S. has the highest CLV at $5,235.13, followed by Germany ($4,707.96) and Italy ($4,671.03). Australia ($3,471.97) and France ($3,459.68) present opportunities for increased retention.
-  
-![Customer](https://github.com/user-attachments/assets/0f18e671-e99e-4304-9f7c-070b729abcb2)
 
-### Profit Insights
-
-- **Top 10 Products by Profit**: Desktop PCs dominate profit generation, contributing 80% of the highest earners, with the WWI Desktop PC2.33 X2330 Black leading at $337,986. Two LCD HDTVs also show potential, with the top model earning $263,727.12.
-
-- **Total Profit by Category**: Computers generate the most profit at $11.28 million, followed by home appliances ($6.30 million) and cameras ($3.92 million). In contrast, low-ticket items like games and toys yield the least profit at $396,668.77, indicating a need for improvement in this category.
-
-- **Profit Contribution by Country**: The United States leads profit contributions at $1.75 million, far exceeding other countries. The United Kingdom follows with $413,800.81, and Germany ($318,916.46) and Canada ($275,738.22) also contribute significantly. France has the lowest profit at $89,513.49, suggesting growth opportunities.
-
-- **Profit by Year**: The highest profit was recorded in 2019 at $10.70 million, followed by 2018 with $7.46 million. Profits rose from $4.11 million in 2016 to 2019, but declined sharply post-2019 due to COVID-19, falling to $5.45 million in 2020 and $608,463.69 in 2021.
-
-- **Year over Year Profit Growth Rate**: From 2016 to 2021, profit growth rates fluctuated significantly, peaking at 72.12% in 2018. However, declines followed in 2019 (43.31%), with negative growth rates in 2020 (-49.08%) and 2021 (-88.83%) due to pandemic effects.
-
-- **Average Profit per Order by Category**: Home appliances lead with the highest average profit per order at $1,212, followed by TV and Video at $1,063.67 and Computers at $1,026.16. Medium-ticket items include Cameras and Camcorders at $784.74, while low-ticket categories like Music and Games show average profits ranging from $64.73 to $275.90.
-
-![Profit](https://github.com/user-attachments/assets/2267f108-1a3e-4d3c-9097-4a96d5a916ff)
+![Customer](https://github.com/user-attachments/assets/375b50c5-88d2-4a63-8e32-0566c9dc8387)
 
 # Recommendations
 
