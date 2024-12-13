@@ -58,8 +58,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Sales Revenue by Country**: The United States far outpaced other regions, contributing $29.87 million to total revenue, while France lagged with $1.52 million. The dominance of the U.S. market indicates its critical importance to the company’s overall performance.
 
 - **Average Order Value by Product Category (AOV)**: Home appliances boasted the highest AOV at $1.84K, compared to games and toys at $102.65. This contrast highlights the significant revenue potential of high-value categories like home appliances over lower-cost items.
-
-![Revenue](https://github.com/user-attachments/assets/4ce7a360-a5c5-4527-b8ec-27c470475ed0)
+  
+![Revenue](https://github.com/user-attachments/assets/6ce10188-f90f-46e9-a060-ba48d7dbf49f)
 
 ### Customer Insights
 - **Customer Age Distribution**: Seniors are the largest demographic with 6,837 customers, followed by adults at 2,659 and young adults at 2,391, indicating a significant preference for the senior demographic.
