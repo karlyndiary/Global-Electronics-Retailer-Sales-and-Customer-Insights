@@ -19,8 +19,6 @@ Insights and recommendations are provided on the following key areas :
 
 - **Customer Demographics**: The customer base consists of different age groups and a nearly balanced gender distribution.
 
-- **Profit Distribution**: Certain product categories contribute significantly to overall profits.
-
 - **Retention Trends**: Customer retention rates exhibit fluctuations over time.
 
 - **Sales Patterns**: There are differences in performance between high-ticket and low-ticket products.
@@ -41,25 +39,22 @@ Global Retailer Electronic's database structure as seen below consists of five t
 
 ### Overview of Findings 
 
-The revenue analysis reveals that the computers category leads sales at $19.30 million, followed by home appliances at $1.08 million. The U.S. market generates the highest revenue at $2.99 million, while France contributes the least at $15.15K. Customer demographics indicate that seniors are the largest age group, totaling 6,837 customers, and the repeat customer rate stands at 53.40%, reflecting strong loyalty. Profit insights show that desktop PCs account for 80% of top profits, with the highest profit contribution in 2019 at $10.70 million. Overall, there is significant revenue potential in high-ticket items and opportunities to improve strategies for low-ticket products and enhance customer retention.
+Revenue insights reveal that desktop PCs, particularly the WWI Desktop PC2.33 X2330 Black, dominate product sales, contributing significantly to overall revenue with minimal variation across colors. The computers category leads in both revenue ($19.3M) and profit ($12.28M), while games and toys represent the lowest revenue and profit ($724.83K and $396.67K, respectively), indicating a gap in demand for lower-priced products. Home appliances have the highest average order value at $1.84K, suggesting opportunities for strategies like premium product offerings or targeted marketing. The United States is the dominant market, contributing $29.87M in revenue, while France lags behind with $1.52M. 2019 marked the peak revenue year, with $18.26M in sales, but a sharp decline occurred in 2021 due to incomplete data and COVID-19 impacts.
 
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights/tree/main/%5B03%5D%20Excel%20Dashboard).
 
 ### Revenue Insights
 
-- **Total Revenue by Category**: The computers category leads with $19.30 million in revenue, showcasing strong consumer demand for high-ticket items. In contrast, games and toys recorded the lowest revenue at $724.83K, indicating a clear gap in demand for lower-priced products.
+- **Top 5 Products by Revenue & Profit**: Desktop PCs, particularly the WWI Desktop PC2.33 X2330 Black ($505.45K revenue, $337K profit), led product sales, with minimal variation across colors (e.g., black vs. silver). This consistent performance underscores desktop PCs' significant contribution to overall revenue.
 
-- **Revenue by year**: 2019 was the peak year for revenue, with $18.26 million in sales, followed by 2018 at $12.79 million. A significant drop occurred in 2021, with only $1.04 million due to incomplete data. This sharp decline marks 2019 as the high point before the downturn in sales.
+- **Revenue & Profit by Category**: The computers category leads with $19.3M in revenue and $12.28M in profit, showcasing strong consumer demand for high-ticket items. In contrast, games and toys recorded the lowest revenue and profit at $724.83K and $396.67K, indicating a clear gap in demand for lower-priced products.
 
-- **Top 10 Products by Revenue**: Desktop PCs, particularly the WWI Desktop PC2.33 X2330 Black at $505.45K, led product sales, showing minimal variations by color (e.g., black vs. silver). This pattern of strong sales for desktop PCs highlights their significant contribution to overall revenue.
-
-- **Total Revenue by Sub-Category**: Desktops generated the highest revenue at $9.91 million, nearly doubling televisions at $4.31 million. This demonstrates the overwhelming impact of desktop computers within the electronics category, further solidifying their top position in sales.
+- **Average Order Value by Product Category (AOV)**: Home appliances boasted the highest AOV at $1.84K, compared to games and toys at $102.65. This suggests that customers are willing to spend much more on high-ticket items like appliances, indicating a potential focus area for strategies like premium product offerings, targeted marketing, or bundling opportunities to further maximize revenue in this category.
 
 - **Sales Revenue by Country**: The United States far outpaced other regions, contributing $29.87 million to total revenue, while France lagged with $1.52 million. The dominance of the U.S. market indicates its critical importance to the company’s overall performance.
 
-- **Average Order Value by Product Category (AOV)**: Home appliances boasted the highest AOV at $1.84K, compared to games and toys at $102.65. This contrast highlights the significant revenue potential of high-value categories like home appliances over lower-cost items.
-  
-![Revenue](https://github.com/user-attachments/assets/6ce10188-f90f-46e9-a060-ba48d7dbf49f)
+- **Revenue by year**: 2019 was the peak year for revenue, with $18.26 million and $10.70 million in sales and profit respectively. A significant drop occurred in 2021, with only $1.04 million and $61K in sales and profit due to incomplete data and covid-19. This sharp decline marks 2019 as the high point before the downturn in sales.
+
 
 ### Customer Insights
 - **Customer Age Distribution**: Seniors are the largest demographic with 6,837 customers, followed by adults at 2,659 and young adults at 2,391, indicating a significant preference for the senior demographic.
@@ -74,7 +69,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Customer Lifetime Value (CLV)**: The U.S. has the highest CLV at $5,235.13, followed by Germany ($4,707.96) and Italy ($4,671.03). Australia ($3,471.97) and France ($3,459.68) present opportunities for increased retention.
 
-![Customer](https://github.com/user-attachments/assets/375b50c5-88d2-4a63-8e32-0566c9dc8387)
+- **Order Frequency by Customer**: The majority of customers (10,273) place between 1 and 9 orders, with only a small group (3) making 30+ orders. There is a significant drop in engagement as the number of orders increases.
 
 # Recommendations
 
@@ -88,4 +83,4 @@ Based on the uncovered insights, the following recommendations have been provide
 
 - **Geographic Market Expansion**: Explore opportunities to strengthen the presence in lower-performing markets, particularly in France. Tailoring marketing strategies to local preferences and considering partnerships can enhance brand visibility and sales.
 
-- **Invest in Customer Retention Strategies**:Given the significant decline in retention rates post-2019, develop engagement strategies such as personalized email campaigns and exclusive offers to enhance customer loyalty and retention.
+- **Invest in Customer Retention Strategies**: Given the significant decline in retention rates post-2019, develop engagement strategies such as personalized email campaigns and exclusive offers to enhance customer loyalty and retention.
