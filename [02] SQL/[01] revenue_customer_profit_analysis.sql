@@ -22,19 +22,19 @@ SELECT c.[customer_key], c.[gender], c.[name], c.[city], c.[state_code], c.[stat
               AND year(s2.[order_date]) < year(s.[order_date])
         ) THEN 'Repeat'
         ELSE 'New'
-    END AS customer_status
+    END AS customer_status, count(c.customer_key) OVER (PARTITION BY c.customer_key) AS order_count
 
-FROM [Global_ELectronics_Retailer].[dbo].[customers] c
+FROM [Global_Electronics_Retailer].[dbo].[customers] c
 
-JOIN [Global_ELectronics_Retailer].[dbo].[sales] s
+JOIN [Global_Electronics_Retailer].[dbo].[sales] s
 ON c.customer_key = s.customer_key
 
-JOIN [Global_ELectronics_Retailer].[dbo].[stores] st
+JOIN [Global_Electronics_Retailer].[dbo].[stores] st
 ON s.store_key = st.store_key
 
-JOIN [Global_ELectronics_Retailer].[dbo].[products] p
+JOIN [Global_Electronics_Retailer].[dbo].[products] p
 ON p.product_key = s.product_key
 
-JOIN [Global_ELectronics_Retailer].[dbo].[exchange_rates] r
+JOIN [Global_Electronics_Retailer].[dbo].[exchange_rates] r
 ON r.currency = s.currency_code
 AND r.date = s.order_date
