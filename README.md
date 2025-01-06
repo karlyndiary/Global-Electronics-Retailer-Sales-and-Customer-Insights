@@ -72,6 +72,8 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Order Frequency by Customer**: The majority of customers (10,273) place between 1 and 9 orders, with only a small group (3) making 30+ orders. There is a significant drop in engagement as the number of orders increases.
 
+![image 129](https://github.com/user-attachments/assets/187c9bfe-fae2-4e6c-bf69-4a749c60887b)
+
 # Recommendations
 
 Based on the uncovered insights, the following recommendations have been provided : 
