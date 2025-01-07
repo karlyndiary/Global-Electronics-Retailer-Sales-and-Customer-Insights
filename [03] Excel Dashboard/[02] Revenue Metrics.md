@@ -6,16 +6,16 @@
 ```
 Custom Formatting -> $0.00,,"M"
 
-- Total Orders
-```
-=COUNTA(UNIQUE(Dataset[order_number]))
-```
-
 - Total Profit
 ```
 =SUM(Dataset[profit])
 ```
 Custom Formatting -> $0.00,,"M"
+
+- Total Orders
+```
+=COUNTA(UNIQUE(Dataset[order_number]))
+```
 
 - Sales Growth Rate
 ```
