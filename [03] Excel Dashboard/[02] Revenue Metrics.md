@@ -11,11 +11,11 @@ Custom Formatting -> $0.00,,"M"
 =COUNTA(UNIQUE(Dataset[order_number]))
 ```
 
-- Average Order Value (AOV)
+- Total Profit
 ```
-=SUM(Dataset[revenue])/COUNTA(UNIQUE(Dataset[order_number]))
+=SUM(Dataset[profit])
 ```
-Custom Formatting -> $
+Custom Formatting -> $0.00,,"M"
 
 - Sales Growth Rate
 ```
