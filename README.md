@@ -53,9 +53,9 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Sales Revenue by Country**: The United States far outpaced other regions, contributing $29.87 million to total revenue, while France lagged with $1.52 million. The dominance of the U.S. market indicates its critical importance to the company’s overall performance.
 
-- **Revenue by year**: 2019 was the peak year for revenue, with $18.26 million and $10.70 million in sales and profit respectively. A significant drop occurred in 2021, with only $1.04 million and $61K in sales and profit due to incomplete data and covid-19. This sharp decline marks 2019 as the high point before the downturn in sales.
-
-![image 128](https://github.com/user-attachments/assets/bd3e48ee-9630-44a9-ac4a-cb8d79ea8e61)
+- **Revenue by year**: 2019 was the peak year for revenue, with $18.26 million and $10.70 million in sales and profit respectively. A significant drop occurred in 2021, with only $1.04 million and $61K in sales and profit due to incomplete data and COVID-19. This sharp decline marks 2019 as the high point before the downturn in sales.
+  
+![Sales Dashboard](https://github.com/user-attachments/assets/3f5ea531-01db-40c0-8f4a-ca2a023585c3)
 
 ### Customer Insights
 - **Customer Age Distribution**: Seniors are the largest demographic with 6,837 customers, followed by adults at 2,659 and young adults at 2,391, indicating a significant preference for the senior demographic.
@@ -68,11 +68,9 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Retention Rates**: The highest retention rate was 89.45% in 2019, with significant fluctuations over the years, including 9.37% in 2021.
 
-- **Customer Lifetime Value (CLV)**: The U.S. has the highest CLV at $5,235.13, followed by Germany ($4,707.96) and Italy ($4,671.03). Australia ($3,471.97) and France ($3,459.68) present opportunities for increased retention.
-
 - **Order Frequency by Customer**: The majority of customers (10,273) place between 1 and 9 orders, with only a small group (3) making 30+ orders. There is a significant drop in engagement as the number of orders increases.
-
-![image 129](https://github.com/user-attachments/assets/187c9bfe-fae2-4e6c-bf69-4a749c60887b)
+  
+![Customer Dashboard](https://github.com/user-attachments/assets/ce5d49da-1945-4141-9b6a-6052bb691948)
 
 # Recommendations
 
