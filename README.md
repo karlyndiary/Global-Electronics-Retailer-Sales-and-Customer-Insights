@@ -68,7 +68,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Retention Rates**: The highest retention rate was 89.45% in 2019, with significant fluctuations over the years, including 9.37% in 2021.
 
-- **Order Frequency by Customer**: The majority of customers (10,273) place between 1 and 9 orders, with only a small group (3) making 30+ orders. There is a significant drop in engagement as the number of orders increases.
+- **Order Frequency by Customers**: The majority of customers (10,273) place between 1 and 9 orders, with only a small group (3) making 30+ orders. There is a significant drop in engagement as the number of orders increases.
   
 ![Customer Dashboard](https://github.com/user-attachments/assets/ce5d49da-1945-4141-9b6a-6052bb691948)
 
