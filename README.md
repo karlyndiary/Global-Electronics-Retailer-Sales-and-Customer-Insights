@@ -55,7 +55,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Revenue by year**: 2019 was the peak year for revenue, with $18.26 million and $10.70 million in sales and profit respectively. A significant drop occurred in 2021, with only $1.04 million and $61K in sales and profit due to incomplete data and COVID-19. This sharp decline marks 2019 as the high point before the downturn in sales.
   
-![Sales Dashboard](https://github.com/user-attachments/assets/3f5ea531-01db-40c0-8f4a-ca2a023585c3)
+![Sales Dashboard](https://github.com/user-attachments/assets/fb0dfc82-73f6-47d1-8d5d-1c4c1a739ee0)
 
 ### Customer Insights
 - **Customer Age Distribution**: Seniors are the largest demographic with 6,837 customers, followed by adults at 2,659 and young adults at 2,391, indicating a significant preference for the senior demographic.
@@ -70,7 +70,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 - **Order Frequency by Customers**: The majority of customers (10,273) place between 1 and 9 orders, with only a small group (3) making 30+ orders. There is a significant drop in engagement as the number of orders increases.
   
-![Customer Dashboard](https://github.com/user-attachments/assets/ad421725-65aa-417a-ae75-9093b9defd5e)
+![Customer Dashboard](https://github.com/user-attachments/assets/19207aad-94ae-4125-89be-d6619a8b76cc)
 
 # Recommendations
 
